@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ageroman
 - 👀 I’m interested in revolutionizing fan experiences in the sports entertainment space
-- 🌱 I’m currently learning how to leverage digital to improve sports teams offerings to their fans
-- 💞️ I’m looking to collaborate on product, customer, research and development in the media entertainment sector
-- 📫 How to reach me ede.agero@olympian.org
+- 🌱 I’m currently learning how to leverage digital to improve sports teams offerings to their members and fans
+- 💞️ I’m looking to collaborate on product, customer, research and development in the sports entertainment sector
+- 📫 How to reach me eden.agero@olympian.org
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ...I'm a retired Olympian
 
