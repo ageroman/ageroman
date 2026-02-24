@@ -2,7 +2,7 @@
 
 Infrastructure builder for participation ecosystems.
 
-I design and deploy intelligence, monetization, and engagement rails beneath sports and cultural communities — starting with Kenyan rugby.
+I design and deploy intelligence, monetization, and engagement rails beneath sports and cultural communities — starting with Kenyan Sports - Rugby.
 
 ## Current Focus
 - Building data and monetization infrastructure for participation sports
