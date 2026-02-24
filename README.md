@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @ageroman
-- 👀 I’m interested in revolutionizing fan experiences in the sports entertainment space
-- 🌱 I’m currently learning how to leverage digital to improve sports teams offerings to their members and fans
-- 💞️ I’m looking to collaborate on product, customer, research and development in the sports entertainment sector
-- 📫 How to reach me eden.agero@olympian.org
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...I'm a retired Olympian
+# Eden Agero Kochieng
 
-<!---
-ageroman/ageroman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Infrastructure builder for participation ecosystems.
+
+I design and deploy intelligence, monetization, and engagement rails beneath sports and cultural communities — starting with Kenyan rugby.
+
+## Current Focus
+- Building data and monetization infrastructure for participation sports
+- Designing controlled deployment environments for ecosystem experimentation
+- Developing fan intelligence systems that convert engagement into measurable value
+- Structuring sports-tech products for institutional scalability
+
+## Areas of Interest
+- Sports infrastructure technology
+- Media systems & fan economy design
+- Participation ecosystem monetization
+- Product strategy & deployment architecture
+- Data models for community-based platforms
+
+## Collaboration
+Open to working with:
+- Sports federations and clubs
+- Product engineers
+- Media-tech operators
+- Infrastructure-minded investors
+- Data scientists focused on participation ecosystems
+
+## Background
+Olympian. Former Kenya 7s & !5s National Team Athlete
+Now building the rails beneath the game.
+
+## Contact
+eden.agero@olympian.org
