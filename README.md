@@ -26,7 +26,7 @@ Open to working with:
 - Data scientists focused on participation ecosystems
 
 ## Background
-Olympian. Former Kenya 7s & !5s National Team Athlete
+Olympian. Former Kenya 7s & !5s Rugby National Team Athlete.
 Now building the rails beneath the game.
 
 ## Contact
